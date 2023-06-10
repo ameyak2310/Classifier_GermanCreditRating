@@ -1,1 +1,2 @@
-# GermanCreditRating_Classifier
+# Classifier for credit rating 
+## Dataset : German Credit Rating
